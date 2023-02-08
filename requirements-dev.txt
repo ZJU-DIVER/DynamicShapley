@@ -1,0 +1,15 @@
+# For dynashap
+pandas==1.2.4
+numpy==1.19.2
+tqdm==4.50.2
+scikit_learn==0.24.2
+
+# For docs
+sphinx==4.0.2
+sphinx_rtd_theme==0.5.2
+
+# For example experiments
+# matplotlib==3.3.3
+
+# For dev
+pytest>=2.8.0
