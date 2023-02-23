@@ -1,6 +1,6 @@
 # For dynashap
 pandas==1.2.4
-numpy==1.19.2
+numpy>=1.22.2
 tqdm==4.50.2
 scikit_learn==0.24.2
 
